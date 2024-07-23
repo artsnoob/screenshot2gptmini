@@ -46,19 +46,3 @@ Before using the extension, you need to set up your OpenAI API key:
 
 - Chrome Extensions API
 - OpenAI API (GPT-4o mini model)
-
-## Security
-
-This extension uses content security policy (CSP) to enhance security. Make sure to follow best practices when handling API keys and user data.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-[Add your chosen license here]
-
-## Disclaimer
-
-This extension is not affiliated with or endorsed by OpenAI. Use it responsibly and in accordance with OpenAI's use policies.
